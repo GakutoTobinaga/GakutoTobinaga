@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @GakutoTobinaga
+## 👋 Hi, I’m Gakuto Tobinaga / 飛永 楽登
 - 👀 I’m interested in Anything!
 - 🌱 I’m currently learning TS
 - 💞️ I’m looking to collaborate on ...
