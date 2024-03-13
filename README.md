@@ -1,10 +1,5 @@
 ## 👋 Hi, I’m Gakuto Tobinaga / 飛永 楽登
-- 👀 I’m interested in Anything!
-- 🌱 I’m currently learning TS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a cat person.
+立命館大学 産業社会学部 現代社会学科
 <!---
 GakutoTobinaga/GakutoTobinaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
