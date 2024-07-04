@@ -1,5 +1,4 @@
 ## 👋 Hi, I’m 飛永 楽登
-## 立命館大学 産業社会学部 現代社会学科
 <!---
 GakutoTobinaga/GakutoTobinaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
