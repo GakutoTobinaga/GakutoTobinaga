@@ -1,8 +1,17 @@
-## 👋 Hi, I’m Gakuto
-<!---
-GakutoTobinaga/GakutoTobinaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GakutoTobinaga&show_icons=true&theme=radical)
+<p align="center">
+  <a href="https://github.com/GakutoTobinaga">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=GakutoTobinaga&data=repositories,stars,commits&theme=aether" width="100%" height="100%" />
+  </a>
+  
+  <a href="https://github.com/GakutoTobinaga">
+    <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,npm,supabase,nodejs,mysql,prettier&includeNames=true&theme=aether" width="49%" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GakutoTobinaga&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,json,sql,markdown,python,php&includeNames=true&theme=aether" width="49%" />
+  </a>
+
+  <a href="https://github.com/GakutoTobinaga">
+    <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,express,nextjs,tailwind&includeNames=true&theme=aether" width="49%" />
+
+<img src="https://github-widgetbox.vercel.app/api/skills?software=mac,linux,vscode,bash&includeNames=true&theme=aether" width="49%" />
+  </a>
+</p>
