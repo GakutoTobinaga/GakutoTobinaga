@@ -10,8 +10,8 @@
   </a>
 
   <a href="https://github.com/GakutoTobinaga">
-    <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,express,next,tailwind&includeNames=true&theme=aether" width="49%" />
+    <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,nest,next,tailwind&includeNames=true&theme=aether" width="49%" />
 
-<img src="https://github-widgetbox.vercel.app/api/skills?software=mac,linux,vscode,bash&includeNames=true&theme=aether" width="49%" />
+<img src="https://github-widgetbox.vercel.app/api/skills?software=linux,vscode,bash&includeNames=true&theme=aether" width="49%" />
   </a>
 </p>
