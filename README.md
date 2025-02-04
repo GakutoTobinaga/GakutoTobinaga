@@ -16,7 +16,6 @@
   </a>
 </p>
 
-連絡先[Contacts]
 @GakutoTobinaga
 Retro.app
 @g
