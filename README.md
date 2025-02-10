@@ -15,8 +15,3 @@
 <img src="https://github-widgetbox.vercel.app/api/skills?software=linux,vscode,bash&includeNames=true&theme=aether" width="49%" />
   </a>
 </p>
-
-@GakutoTobinaga
-Retro.app
-@g
-https://zuboshilab.vercel.app
