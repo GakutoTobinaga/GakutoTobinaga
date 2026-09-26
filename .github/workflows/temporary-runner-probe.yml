@@ -1,0 +1,11 @@
+name: Temporary public runner probe
+on:
+  pull_request:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "public GitHub-hosted runner works"
